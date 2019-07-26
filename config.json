@@ -1,0 +1,13 @@
+{
+    "token": "<TOKEN>",
+    "owner": "<OwnerId>",
+    "prefix": "!",
+    "adminprefix": ".",
+
+    "activity": {
+        "streaming": false,
+        "url": "<URL>",
+        "game": "nix | !help",
+        "streamgame": "auf Twitch"
+    }
+}
